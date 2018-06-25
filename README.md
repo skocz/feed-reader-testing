@@ -4,8 +4,8 @@ In this project I was given a web-based application that reads RSS feeds. I used
  
 ## To Run
 
-Clone/download this repository.
-Open index.html in your browser.
+- Clone/download this repository.
+- Open index.html in your browser.
 
 ## Why this Project?
 
