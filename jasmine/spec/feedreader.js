@@ -68,7 +68,7 @@ $(function() {
 
         //there is at least a single .entry element within the .feed container.
         it('should have at least one element', function(done){
-        expect($('.feed').length).not.toBe(0);
+        expect($('.entry').length).not.toBe(0);
             done();
         });
     });
