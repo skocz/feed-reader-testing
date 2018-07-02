@@ -8,7 +8,7 @@ $(function() {
     */
     describe('RSS Feeds', function() {
         /* it tests to make sure that the allFeeds variable has 
-         * been definedand that it is not empty.
+         * been defined and that it is not empty.
          */
         it('are defined', function() {
             expect(allFeeds).toBeDefined();
